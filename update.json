@@ -1,0 +1,13 @@
+{
+  "homepage": "<homepage/download page for your mod>",
+  "1.10.2": {
+    "1.0": "First Version!", 
+  },
+  "promos": {
+    "1.10.2-latest": "1.0",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.10.2-recommended": "1.0",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
