@@ -1,11 +1,12 @@
 {
   "homepage": "https://github.com/Ryan-Afzal/RyanopolisMod",
   "1.10.2": {
+    "1.1.1": "Added a crafting recipie for Soda, added the Empty Can item, work done on the Redstone Controller and the Redstone Output",
     "1.1": "Added new food items: Soda, Chips, SuperChips, and a new block!",
     "1.0": "First Version!",
   },
   "promos": {
-    "1.10.2-latest": "1.1",
-    "1.10.2-recommended": "1.0",
+    "1.10.2-latest": "1.1.1",
+    "1.10.2-recommended": "1.1",
   }
 }
